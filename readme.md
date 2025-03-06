@@ -40,15 +40,6 @@ A solução desenvolvida permite a transição de um modelo de manutenção corr
 
 📊 Visualização de Dados em Dashboard: Interface interativa para análise dos resultados e monitoramento do status dos equipamentos.
 
-📂 Estrutura do Projeto
-
-📁 predictive-maintenance
-├── 📜 predictivemaintenance.py  # Script principal com o modelo de previsão
-├── 📜 requirements.txt  # Dependências do projeto
-├── 📁 data/  # Diretório para armazenar datasets
-├── 📁 results/  # Resultados gerados pelas previsões
-├── 📁 dashboard/  # Código para a interface de visualização
-
 👨‍💻 Autor
 
 Luís Manuel Marques Passos📧 Email: luismmpassos03@gmail.com🏫 Instituto Superior de Engenharia do Porto (ISEP)🏢 Projeto realizado na Amkor Technology Portugal
