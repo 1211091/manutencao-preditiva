@@ -1,4 +1,4 @@
-Predictive Maintenance
+PREDICTIVE MAINTENANCE
 
 📌 Descrição do Projeto
 
